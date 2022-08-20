@@ -4,6 +4,6 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. See the final output below.
-file:///C:/Users/chisi/OneDrive/Desktop/Leaflet_Challenge_final/part_1/index.html
+https://chisimokoye.github.io/Leaflet_Challenge_Final/part_1/index.html
 
 ![image](https://user-images.githubusercontent.com/99673859/185763522-aa4a02b0-54d9-4f6f-891d-534f86e076c2.png)
